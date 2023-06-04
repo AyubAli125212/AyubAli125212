@@ -1,5 +1,5 @@
 <div  align="center">
-  <img alig src="https://res.cloudinary.com/dlkmarlgw/image/upload/v1685898195/Turquoise_Simple_Modern_Linkedin_Banner_1_tyao2n.gif" />
+  <img alig src="https://res.cloudinary.com/dlkmarlgw/image/upload/v1685902878/Heading_x0p5va.gif" />
 </div>
 <h2 align="left">
  <abc>
