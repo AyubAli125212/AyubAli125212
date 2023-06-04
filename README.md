@@ -1,7 +1,11 @@
 <div  align="center">
   <img alig src="https://res.cloudinary.com/dlkmarlgw/image/upload/v1685898195/Turquoise_Simple_Modern_Linkedin_Banner_1_tyao2n.gif" />
 </div>
-## Hi there <img src="https://res.cloudinary.com/dlkmarlgw/image/upload/v1685901466/wave_sqlva2.gif" width="30">
+<h2 align="left">
+ <abc>
+  <br>Hi there! <img src="https://res.cloudinary.com/dlkmarlgw/image/upload/v1685901466/wave_sqlva2.gif" width="30"><br>
+ </abc>
+</h2>
 
 - 🔭 Focusing on FullStack.😎
 - 💻 I love to exploring new tech stack and building cool stuffs.
