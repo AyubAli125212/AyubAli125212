@@ -34,5 +34,3 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"height="25">
 
 </span>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AyubAli125212&count_private=true&show_icons=true&include_all_commits=true)
