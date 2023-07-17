@@ -1,5 +1,5 @@
 <div  align="center">
-  <img alig src="https://res.cloudinary.com/dlkmarlgw/image/upload/v1685902878/Heading_x0p5va.gif" />
+  <img alig src="https://res.cloudinary.com/dlkmarlgw/image/upload/v1689604740/Heading_mu7y9x.gif" />
 </div>
 <h2 align="left">
  <abc>
